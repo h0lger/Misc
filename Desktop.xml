@@ -8,19 +8,19 @@
         </Feature>
         <Feature name="AutoTuneSupport" />
         <Feature name="CoreClockTarget_PCI_VEN_1002&amp;DEV_6898&amp;SUBSYS_29611682&amp;REV_00_4&amp;309465BD&amp;0&amp;0008A">
-          <Property name="Want_0" value="15700" />
+          <Property name="Want_0" value="60000" />
           <Property name="Want_1" value="60000" />
-          <Property name="Want_2" value="85000" />
+          <Property name="Want_2" value="60000" />
         </Feature>
         <Feature name="MemoryClockTarget_PCI_VEN_1002&amp;DEV_6898&amp;SUBSYS_29611682&amp;REV_00_4&amp;309465BD&amp;0&amp;0008A">
-          <Property name="Want_0" value="30000" />
+          <Property name="Want_0" value="90000" />
           <Property name="Want_1" value="90000" />
-          <Property name="Want_2" value="120000" />
+          <Property name="Want_2" value="90000" />
         </Feature>
         <Feature name="CoreVoltageTarget_PCI_VEN_1002&amp;DEV_6898&amp;SUBSYS_29611682&amp;REV_00_4&amp;309465BD&amp;0&amp;0008A">
-          <Property name="Want_0" value="950" />
+          <Property name="Want_0" value="1063" />
           <Property name="Want_1" value="1063" />
-          <Property name="Want_2" value="1125" />
+          <Property name="Want_2" value="1063" />
         </Feature>
         <Feature name="MemoryVoltageTarget_PCI_VEN_1002&amp;DEV_6898&amp;SUBSYS_29611682&amp;REV_00_4&amp;309465BD&amp;0&amp;0008A">
           <Property name="Want_0" value="0" />
@@ -37,7 +37,7 @@
           <Property name="Want" value="2374" />
         </Feature>
         <Feature name="FanSpeedPercentTarget_PCI_VEN_1002&amp;DEV_6898&amp;SUBSYS_29611682&amp;REV_00_4&amp;309465BD&amp;0&amp;0008A">
-          <Property name="Want" value="30" />
+          <Property name="Want" value="35" />
         </Feature>
       </Group>
     </Groups>
